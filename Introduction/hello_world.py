@@ -1,4 +1,4 @@
 # Problem: Say "Hello, World!" with Python
-# Platform: HackerRank
+# Platform: HackerRank 
 
 print("Hello, World!")
